@@ -40,8 +40,6 @@ if (schedule[time_tem][loc_tem] >  1) { // clash in time&location
 				dif_cost--;
 		}
 ```
-
-
-
+link of the code: <a href="https://github.com/tianhuizhou/Timetable"><i class="large github icon"></i>tianhuizhou/Timetable</a>
 
 
