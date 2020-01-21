@@ -2,43 +2,46 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Timetable
+permalink: projects/Timetable
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2020-01-21
 labels:
-  - Robotics
-  - Arduino
+  - Python
   - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: My group write a program to schedule classes into different classroom and time.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
+  
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+The problem that we are trying to solve in this project is to automate the task of creating classroom timetables which is an NP problem. An NP problem is a hard problem that cannot be solved in polynomial time which is more difficult than problems that can be solved in polynomial time.  This is important because it can save time for administrators to determine class schedules.
 
-Here is some code that illustrates how we read values from the line sensors:
+In this project, I take charge of the coding part, which includes implementing Monte Carlo and Annealing simulated algorithms. Monte Carlo and Annealing simulated are randomly optimization algorithms that reduce the cost by randomly moving around courses. Cost means the total amount of class clash in our solution, which includes the clash of time & location and time & teacher. Cost is an important variable for valuing the solution, so a good solution always come out a small cost. And I wrote the cost function to make sure the program works.
+Here is some code about Cost that how I calculate the cost:
 
 ```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
+if (schedule[time_tem][loc_tem] >  1) { // clash in time&location
+			if (schedule[row_tem][col_tem] == 0)
+				dif_cost++;
+		} else { //no clash
+			if (schedule[row_tem][col_tem] > 0)
+				dif_cost--;
+		}
+
+		if (schedule2[time_tem][index_teacher] > 1) { // there is a clash in time&teach
+			if (schedule2[row_tem][index_teacher] == 0)
+				dif_cost++;	
+		} else {
+			if (schedule2[row_tem][index_teacher] > 0) 
+				dif_cost--;
+		}
 ```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+
 
 
 
