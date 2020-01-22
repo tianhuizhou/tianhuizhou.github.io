@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Timetable.jpg
+image: images/Scheduling.jpg
 title: Timetable
 permalink: projects/Timetable
 # All dates must be YYYY-MM-DD format!
