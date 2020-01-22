@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/Timetable.jpg
 title: Timetable
 permalink: projects/Timetable
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,7 @@ summary: My group write a program to schedule classes into different classroom a
 
 <div class="ui small rounded images">
   
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/Timetable.png">
 </div>
 
 
