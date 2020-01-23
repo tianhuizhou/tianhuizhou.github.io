@@ -71,6 +71,7 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "ICS 200+, ICS 311, ICS "
       ]
     }
   ],
@@ -88,7 +89,7 @@
     }
     
   ],
-  "activity": [
+  "activites": [
     {
       "title": "Schduling algorithm for classrooms",
       "date": "2019-Present",
