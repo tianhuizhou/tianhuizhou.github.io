@@ -81,7 +81,10 @@
       "website": "",
       "startDate": "2020-01-21",
       "endDate": "Present",
-      "summary": "peer mentor for ICS students"
+      "summary": "peer mentor for ICS students",
+      "highlight": ""[
+        "helping ICS students to solve problems for their courses"
+      ]
     }
     
   ],
@@ -91,6 +94,14 @@
       "date": "2019-Present",
       "type": "Undergraduate research project",
       "summary": "creating a program for solving scheduling problem about courses with time & classrooms & teachers ."
+    }
+  ],
+  "volunteer":[
+    {
+    }
+  ],
+  "award":[
+    {
     }
   ],
   "references": [
