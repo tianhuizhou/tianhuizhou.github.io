@@ -12,7 +12,7 @@ labels:
 summary: A encryption project in ICS 212.
 ---
 
-<img class="ui medium floated rounded image" src="../images/sha-1.png">
+<img class="ui big right image" src="../images/sha-1.png">
 SHA-1 is the secure hash algorithm, which required for use the Digital signature Algorithm(DSA) as specified in the Digital Signature Standard (DSS) and whenever a secure hash algorithm is required for federal applica- tions. It is a final project in ICS 212.
 
 
