@@ -12,7 +12,7 @@ labels:
 summary: My group write a program to schedule classes into different classroom and time.
 ---
 
-<div class="ui medium right rounded images">
+<div class="ui medium right images">
   
   <img class="ui image" src="../images/Timetable.png">
 </div>
