@@ -31,7 +31,8 @@ if (schedule[time_tem][loc_tem] >  1) { // clash in time&location
 			if (schedule[row_tem][col_tem] > 0)
 				dif_cost--;
 		}
-
+        
+        if(row_tem != time_tem){
 		if (schedule2[time_tem][index_teacher] > 1) { // there is a clash in time&teach
 			if (schedule2[row_tem][index_teacher] == 0)
 				dif_cost++;	
@@ -39,7 +40,9 @@ if (schedule[time_tem][loc_tem] >  1) { // clash in time&location
 			if (schedule2[row_tem][index_teacher] > 0) 
 				dif_cost--;
 		}
+        }
 ```
+In this project, I learned that how to work with other people as a team. Everyone in a group should take their own responsibilities and contribute their strengths to push forward the project. Furthermore, having quality and efficient communication with teammate is important because it can make sure everyone works on the same page and reduce producing error.
 link of the code: <a href="https://github.com/tianhuizhou/Timetable"><i class="large github icon"></i>tianhuizhou/Timetable</a>
 
 
