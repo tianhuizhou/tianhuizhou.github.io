@@ -12,7 +12,7 @@ labels:
 summary: A pokemon game gui in ICS 211.
 ---
 
-<img class="ui medium floated rounded image" src="../images/poke1.png">
+<img class="ui medium right floated rounded image" src="../images/poke1.png">
 
 this is a simple pokemon game by implementing java Gui. I used priority queue to sort the pokemon, and show them in order. It can find different kinds of pokemons and catch them by some possibility. The pokemons we catched will be put on our backpack, and we can check and print the list of what we got. 
 
