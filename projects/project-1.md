@@ -14,7 +14,7 @@ summary: My group write a program to schedule classes into different classroom a
 
 <div class="ui images">
   
-  <img class="ui image" src="../images/Timetable.png">
+  <img class="ui big right image" src="../images/Timetable.png">
 </div>
 
 
