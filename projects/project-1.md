@@ -55,7 +55,7 @@ There are some pictures for testing example, which is scheduling 100 courses and
 The program is able to read input files and output a timetable as csv file to show the details.
 <p><img class="ui large image" src="../images/TimetableReport.png" alt="report" /></p>
 
-<h2 id="experience">My </h2>
+<h2 id="experience">My Gain</h2>
 In this project, I learned that how to work with other people as a team. Everyone in a group should take their own responsibilities and contribute their strengths to push forward the project. Furthermore, having quality and efficient communication with teammate is important because it can make sure everyone works on the same page and reduce producing error.
 
 link of the code: <a href="https://github.com/ICSatKCC/TimeTablingProject"><i class="large github icon"></i>Timetable</a>
