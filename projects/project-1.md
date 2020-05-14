@@ -17,7 +17,7 @@ summary: Implementing Simulated Annealing Algorithm to solve an NP problem.
   <img class="ui big right image" src="../images/Timetable.png">
 </div>
 
-<h2 id="overview">project-overview</h2>
+<h2 id="overview">Project Overview</h2>
 The problem that we are trying to solve in this project is to automate the task of creating classroom timetables which is an NP problem. An NP problem is a hard problem that cannot be solved in polynomial time which is more difficult than problems that can be solved in polynomial time. This is important because it can save time for administrators to determine class schedules.
 
 <h2 id="contribution">My Contribution</h2>
