@@ -49,7 +49,9 @@ if (schedule[time_tem][loc_tem] >  1) { // clash in time&location
         }
 ```
 
-There are some pictures for testing example, which is scheduling 100 courses and 47 teachers to 16 classrooms and 7 time periods.
+<h3 id="result">Running the program for real data sample</h3>
+We randomly pick up 100 courses from actual KCC data for our testing data set.
+There are some pictures for testing example, which is scheduling 100 courses and 44 teachers to 16 classrooms and 7 time periods.
 <img class="ui large image" src="../images/TimetableResult.png" alt="result" />
 
 The program is able to read input files and output a timetable as csv file to show the details.
