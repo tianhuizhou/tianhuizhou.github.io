@@ -33,4 +33,5 @@ In the group project, my jobs are focus on building functionalities and establis
 <h2 id="experience">What I learned</h2>
 This is my first time to attend a group project. It's a great experience for me to learn working with people in a big project. It makes me realize that the significance of teamwork. My team is amazing because everyone has their own advantages for accomplishing the project, so we have a very good efficiency for doing the project.
 I also practice my skills by using Meteor for UI design and database and learn how to develop a website. That's a great opportunity for me. 
-link of the code: <a href="https://github.com/manoalist/manoalist"><i class="large github icon"></i>ManoaList</a>
+
+link of the project: <a href="https://github.com/manoalist/manoalist"><i class="large github icon"></i>ManoaList</a>
