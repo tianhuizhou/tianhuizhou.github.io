@@ -15,7 +15,7 @@ It is a tough semester since our lives have been influenced by the COVID pandemi
 
 <h2>Coding Standards</h2>
 
-<p><img class="ui large image" src="../images/coding-standards.png" align="left"/></p>
+<p><img class="ui image" src="../images/coding-standards.png" align="left"/></p>
 
 Coding standards is some specific rules and guidelines that programmers should flow for writing code because it is important for collaborating with teammates in projects. It is a basic but important software engineering skill, which is a habit about the way we code our program. It’s very similar to we follow the same English grammar when we write articles. Following coding standards in a project does not improve the time and space complexities of the program, but it can save a lot of work for people in the big picture.
 
