@@ -23,10 +23,13 @@ I attended this competition with my friends <a href="https://yuhanj.github.io/">
 
 ## Project Overview
 Today, many people still use spreedsheet to manage event and building access. It is a low-efficiency and inconvenience way for users to edit and check the data. And it cannot really help users to improve the security of their places. 
+
 Traditionally, physical monitor rooms take the most of responsibility of building security. It might require a lot of cost on equipment and labor if people want to have a strict building management system. However, we find the way to solve the challenge with low cost to some extent. 
+
 UHShield is a powerful mobile iOS-platform app that help UH Staff to manage events and building access. It provides a real-time database to record information and data and keep them privately, and user-friendly interface to help staffs to enhance their work efficiency.
 
-<div class="ui embed" data-source="youtube" data-id="YX9HWBJndsU" ></div>
+<div class="ui embed" data-source="youtube" data-id="YX9HWBJndsU" >
+</div>
 
 ## Feature
 We assume that there are two basic roles for staffs in a building: 
