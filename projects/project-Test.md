@@ -2,14 +2,16 @@
 layout: project
 type: project
 image: images/sha1.png
-title: SHA-1
-permalink: projects/SHA-1testsomething
+title: UHShield
+permalink: projects/uhshield
 # All dates must be YYYY-MM-DD format!
-date: 2019-03-21
+date: 2020-12-10
 labels:
-  - C
-  - GitHub
-summary: A encryption project in ICS 212.
+  - Native App
+  - XCode
+  - Swift
+  - Firebase
+summary: HACC 2020 Project: A Secured Mobile Visitor Registration System.
 ---
 
 ## What is HACC?
