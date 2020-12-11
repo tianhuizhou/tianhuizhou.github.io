@@ -1,4 +1,4 @@
- ---
+---
 layout: project
 type: project
 image: images/sha1.png
