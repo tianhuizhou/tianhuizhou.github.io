@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/sha1.png
-title: UHShield
+title: uhshield
 permalink: projects/uhshield
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-10
