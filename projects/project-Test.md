@@ -8,7 +8,7 @@ permalink: projects/SHA-1
 date: 2020-12-10
 labels:
   - C
-summary: HACC 2020 Project A Secured Mobile Visitor Registration System.
+summary: HACC 2020 Project: A Secured Mobile Visitor Registration System.
 ---
 
 ## What is HACC?
