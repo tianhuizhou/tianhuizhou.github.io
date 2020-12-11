@@ -2,18 +2,14 @@
 layout: project
 type: project
 image: images/sha1.png
-title: UHShield
-permalink: projects/UHShield
+title: SHA-1
+permalink: projects/SHA-1
 # All dates must be YYYY-MM-DD format!
-date: 2020-12-10
+date: 2019-03-21
 labels:
-  - Native App
-  - XCode
-  - Swift
-  - Firebase
-  - Secrity
-  - iOS development
-summary: HACC 2020 Project: A Secured Mobile Visitor Registration System.
+  - C
+  - GitHub
+summary: A encryption project in ICS 212.
 ---
 
 ## What is HACC?
