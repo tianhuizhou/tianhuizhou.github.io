@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/sha1.png
 title: SHA-1
-permalink: projects/SHA-1
+permalink: projects/SHA-1testsomething
 # All dates must be YYYY-MM-DD format!
 date: 2019-03-21
 labels:
