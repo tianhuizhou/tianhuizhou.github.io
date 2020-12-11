@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/sha1.png
-title: uhshield
-permalink: projects/uhshield
+title: SHA-1
+permalink: projects/SHA-1
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-10
 labels:
