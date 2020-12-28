@@ -30,7 +30,7 @@ It is a interactive web app for visualizing the video game Rainbow Six Siege. We
 ## Project Conclusion
 We are trying to provide an useful tool for Rainbow Six Siege's players to visualizing the data and discover the interesting facts under the data. Analysis Data and learn from data is the purpose of developing this web app because data do not lie at the most of time. We believe that players can improve their skills and win rate by appropriately analyzing data.
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/r6_two.png" alt="img1">
   <img class="ui image" src="../images/r6_three.png" alt="img2">
   <img class="ui image" src="../images/r6_four.png" alt="img3">
